@@ -48,6 +48,12 @@ During this step, all tables created within the database are loaded into Power B
 The heart of the data cleaning and ETL process lies in transforming the raw data into a structured and usable format. Power Query comes to our aid, enabling us to cleanse and reshape the dataset. Through various transformations and manipulations, inconsistencies are resolved, missing values are handled, and the data is refined to align with our analytical objectives.
 Once the dataset undergoes this meticulous cleaning and transformation, it emerges prepared for the next stage: data modeling. With a clean and structured dataset in hand, we are equipped to delve into advanced analytics, uncover patterns, and extract meaningful insights that drive informed decision-making.
 
+<h2>Data Model</h2>
+<img src="Data-Modelling.png" width = "500" height="400">
+
+<h2>Data Model</h2>
+<img src="Star-Schema.png" width = "500" height="400">
+
 This process ensures that the data we analyze is not just accurate but also optimized for deriving valuable insights, making it an integral part of our data analysis workflow.
 
 ## Building Dashboards or Reports
@@ -69,6 +75,15 @@ In this pivotal step, we leverage the power of Power BI Desktop to craft compreh
 - In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
 - Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in April 2020.
 
+  <h2>Key Insight</h2>
+  <img src="Key-Insights.png" width = "500" height="400">
+
+  <h2>Performance Insights</h2>
+  <img src="Performance-Insights.png" width = "500" height="400">
+
+  <h2>Profit Analysis</h2>
+  <img src="Profit-Analysis.png" width = "500" height="400">
+  
 ## Tools, Softwares, and Libraries
 
 - MySQL server and SQL workbench
